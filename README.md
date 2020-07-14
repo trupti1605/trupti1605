@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: 
 linkdean:-https://www.linkedin.com/in/trupti-mamlekar-9a5651196
 -->
-###Introduction 
+### Introduction 
 
 🔭 I’m currently working on data science projects.
 
