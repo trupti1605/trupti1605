@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am currently working  with new technologies and building small projects in data science projects.
 <!--
 **trupti1605/trupti1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
